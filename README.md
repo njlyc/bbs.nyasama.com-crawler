@@ -1,2 +1,2 @@
-# -crawler-of-bbs.nyasama.com
+# bbs.nyasama.com crawler
 download translated comics from nyasama
